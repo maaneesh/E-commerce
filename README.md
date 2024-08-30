@@ -6,4 +6,4 @@
 
 ## Technlogies
 
-Vite, Tailwind, DaisyUI, Redux
+    Vite, Tailwind, DaisyUI, Redux
