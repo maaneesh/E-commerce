@@ -18,7 +18,6 @@ function Cart() {
     0
   );
   const handleCheckout = () => {
-    // Add your checkout logic here
     alert("Proceeding to checkout");
   };
 
