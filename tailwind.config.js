@@ -4,5 +4,15 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: [
+      // list theme you want to use in your project.
+      "light",
+      "dark",
+      "retro",
+      "aqua ",
+      "pastel",
+    ],
+  },
 };

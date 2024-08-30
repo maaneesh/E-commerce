@@ -1,0 +1,111 @@
+{
+  "cafe": {
+    "name": "Sunny Cafe",
+    "location": {
+      "address": "123 Sunshine Ave, Sunnyville, CA 94000",
+      "coordinates": {
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      }
+    },
+    "contact": {
+      "phone": "(123) 456-7890",
+      "email": "info@sunnycafe.com",
+      "website": "http://www.sunnycafe.com"
+    },
+    "hours": {
+      "monday": "7:00 AM - 8:00 PM",
+      "tuesday": "7:00 AM - 8:00 PM",
+      "wednesday": "7:00 AM - 8:00 PM",
+      "thursday": "7:00 AM - 8:00 PM",
+      "friday": "7:00 AM - 10:00 PM",
+      "saturday": "8:00 AM - 10:00 PM",
+      "sunday": "8:00 AM - 6:00 PM"
+    },
+    "menu": {
+      "coffee": [
+        {
+          "name": "Batch brew",
+          "price": 3.5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.cGdFGDfnF9tQDFYlsyDjJwAAAA%26pid%3DApi&f=1&ipt=8ae52f5076d3fac76a8c95c0272b7f604b6926667fb8aac784f5bc1fa901f5d9&ipo=images"
+        },
+        {
+          "name": "Espresso",
+          "price": 3.5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.KceoN7d9ma2dSJJJRrPB1gHaE8%26pid%3DApi&f=1&ipt=e68c203534c95a967ea6f5464a2f68cba08adf158860b825bf8ae17a4a9b2a45&ipo=images"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 4.0,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.JEfKdPUlrHWOV-NJ7O9PHQHaFB%26pid%3DApi&f=1&ipt=1ac92a1b375773ae330c1f6c7b80675bd91dffb4b7fdb466458262e4031204fa&ipo=images"
+        },
+        {
+          "name": "Latte",
+          "price": 4.5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-EBzQ6CbfQ3FgBNUnr8NRQHaF6%26pid%3DApi&f=1&ipt=adf28f49e361e3980c16a88466b541b2e69385df89b26698850ede3a07f531b1&ipo=images"
+        },
+        {
+          "name": "Match Latte",
+          "price": 5.5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.WKQzloBCJbudGGCbNj1UJwHaFf%26pid%3DApi&f=1&ipt=9b9115c4ecb5820a058a636e049795e37459cc2bc2bfa6b65b7dfc9e16fe4ad2&ipo=images"
+        },
+        {
+          "name": "Hot Chocolate",
+          "price": 5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%3Fid%3DOIP.0IQcEZjC0KxfEyD-MqqPTQHaLH%26pid%3DApi&f=1&ipt=24b61068287c48f71e23f6f8f4cffccf47f7ed9650c6a70c5fed5dc14f205f1c&ipo=images"
+        }
+      ],
+      "tea": [
+        {
+          "name": "Chai",
+          "price": 4.0,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.HPi5NfOCBYu7Zmqoz7nbnAHaFj%26pid%3DApi&f=1&ipt=3b3878268c5d092591acb251cd6c50d3f1da30e1a9998e618899a23fe9e659f5&ipo=images"
+        },
+        {
+          "name": "Green Tea",
+          "price": 2.5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cpPzy88fMBgjzq0o2QDm4QHaE9%26pid%3DApi&f=1&ipt=f50965aebde01c72502bcf0ec87115be246ac9c6ee4833f35acf6e5ac8fad914&ipo=images"
+        }
+      ],
+      "pastries": [
+        {
+          "name": "Croissant",
+          "price": 4.0,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.crushpixel.com%2Fbig-static11%2Fpreview4%2Ffreshly-baked-croissants-694054.jpg&f=1&nofb=1&ipt=28923cb20451ebaee38b4546ce21d605c7b8b2f98c613d540a2ad8226c8a55ea&ipo=images"
+        },
+        {
+          "name": "Pain au Chocolat",
+          "price": 4.5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.9oPE_nEBXKLdIWbHGtbSygHaE8%26pid%3DApi&f=1&ipt=140ebf7663e4e87e50891ee6f0075537bc4e06a8dd8f04faaecbe307d0b41c9d&ipo=images"
+        },
+        {
+          "name": "Muffin",
+          "price": 4.0,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.UDckcERFB0SiyVYWJxLTnAHaLo%26pid%3DApi&f=1&ipt=aacc2276062f95f98afdfdf18818d25706e696cacc7e5cb522b924f371cdf381&ipo=images"
+        },
+        {
+          "name": "Everything Bagel",
+          "price": 4.5,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.-Okndku71CJr2XjqOmwOYwHaGe%26pid%3DApi&f=1&ipt=e09214d0f6838a218ba898112dc55274768199536a5bd023b7b475c7c5e2e184&ipo=images"
+        },
+        {
+          "name": "Glazed Donut",
+          "price": 4.0,
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.zvPY6W-IZji4oLrMroJM8QHaLH%26pid%3DApi&f=1&ipt=7c9386270bd70c002bea836d8bce43a4396f855ba12dab7ffc1f3c5afcc3ff7b&ipo=images"
+        }
+      ]
+    },
+    "reviews": [
+      {
+        "customerName": "John Doe",
+        "rating": 5,
+        "comment": "Great atmosphere and delicious coffee!"
+      },
+      {
+        "customerName": "Jane Smith",
+        "rating": 4,
+        "comment": "The pastries are fresh and tasty, but the service can be a bit slow."
+      }
+    ]
+  }
+}
