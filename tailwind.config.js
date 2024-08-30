@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
@@ -10,9 +11,8 @@ export default {
       // list theme you want to use in your project.
       "light",
       "dark",
-      "retro",
-      "aqua ",
       "pastel",
+      "cupcake",
     ],
   },
 };

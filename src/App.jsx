@@ -6,12 +6,8 @@ import Cart from "./components/cart";
 function App() {
   return (
     <>
-      <div>
-        <Header />
-
-        <Menu />
-        <Cart />
-      </div>
+      <Header />
+      <Menu />
     </>
   );
 }

@@ -22,7 +22,7 @@ function Cart() {
   };
 
   return (
-    <div className="card p-2">
+    <div className="card bg-base-300 p-2 flex-nowrap">
       <h2 className="card-title">Cart</h2>
       <div></div>
       {cart.length === 0 ? (
@@ -37,7 +37,7 @@ function Cart() {
               >
                 <div className="flex items-center">
                   <span className="mr-2">
-                    {item.name} - {item.price} X
+                    {item.name} - ${item.price} X
                   </span>
                   <input
                     className="quantity-input w-16 p-1 border rounded"
